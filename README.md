@@ -79,6 +79,6 @@ O menu principal deve permitir a execução das seguintes opções:
 
 ## Autor
 
-Este projeto foi desenvolvido por [Marquinho Amorim](wa.me/5519993018602).
+Este projeto foi desenvolvido por [Marquinho Amorim](https://api.whatsapp.com/send/?phone=5519993018602&text&type=phone_number&app_absent=0).
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.

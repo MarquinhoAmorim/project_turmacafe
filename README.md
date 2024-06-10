@@ -75,3 +75,10 @@ O menu principal deve permitir a execução das seguintes opções:
 - `contribuintes_DSM.txt`: Armazena os dados dos contribuintes do curso DSM.
 - `contribuintes_SI.txt`: Armazena os dados dos contribuintes do curso SI.
 - `contribuintes_GE.txt`: Armazena os dados dos contribuintes do curso GE.
+
+
+## Autor
+
+Este projeto foi desenvolvido por [Marquinho Amorim](wa.me/5519993018602).
+
+Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo.
